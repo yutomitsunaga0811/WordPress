@@ -1,2 +1,2 @@
 # WordPress
-Wo
+WordPress環境構築
